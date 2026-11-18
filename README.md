@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/Asepahm/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/Asepahm/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-> **New here? Sign up with my link:** https://make.fun/r/8v5kzx91
+> **New here? Sign up with my link:** https://make.fun/r/9q6d5ff8
 >
-> Referral code: `8v5kzx91`
+> Referral code: `9q6d5ff8`
 >
 > If you join through that link, your account is tied to my referral code, and I get credit when you sign up. It costs you nothing extra — the link just tells make.fun who pointed you here.
 
@@ -103,7 +103,7 @@ That is the whole list. There is no paid software to buy and no subscription to 
 
 ## Step 1 — Create your account
 
-1. **Sign up through the referral link above** — https://make.fun/r/8v5kzx91 — so your account is tied to the code `8v5kzx91`. If you already have an account, this step is done; the link is only for new signups.
+1. **Sign up through the referral link above** — https://make.fun/r/9q6d5ff8 — so your account is tied to the code `9q6d5ff8`. If you already have an account, this step is done; the link is only for new signups.
 2. **Sign in with your Solana wallet.** The wallet signs a message to prove you own it. That same wallet is the one a prize is claimed to later, so use the wallet you actually control.
 3. **Register an API key.** The bounty kit's command-line tool uses an API key to talk to make.fun on your behalf. The kit's CLI registers one for you when you run its login or register command, and stores it locally. The key is good for 30 days; run the command again when it expires.
 4. **Link GitHub on your profile** if you signed in with something other than GitHub. The repository you submit must belong to the GitHub account linked to your make.fun account, so check the link is in place before you build anything.
@@ -263,9 +263,9 @@ Start with the bounty page and the kit's rules file — most questions are answe
 - make.fun — https://make.fun
 - This bounty — https://make.fun/bounty/bring-the-humans-02
 - Leaderboard — https://make.fun/bounty/bring-the-humans-02/leaderboard
-- Sign up with my link — https://make.fun/r/8v5kzx91
+- Sign up with my link — https://make.fun/r/9q6d5ff8
 - Guides — https://make.fun/guides
 - Skill docs — https://make.fun/skill.md
 - Press kit — https://make.fun/press
 
-<sub>Entered on [make.fun](https://make.fun/?ref=8v5kzx91&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=9q6d5ff8&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
